@@ -1,0 +1,6 @@
+@teroxai.api_HostAddress = http://localhost:5246
+
+GET {{teroxai.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
